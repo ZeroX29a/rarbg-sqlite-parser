@@ -28,4 +28,4 @@ The application incorporates robust error handling mechanisms:
 
 ---
 
-*Created with assistance from ChatGPT.*
+*Personally Credited ChatGPT*
